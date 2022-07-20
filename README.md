@@ -1,2 +1,2 @@
 # Fox_Trial
-Platformer game i developed in unity
+Platformer game I developed in unity
